@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul 
 - 👀 I’m interested in Node,Express,Mongodb and Devops
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on Devops related projects
+- 💞️ I’m looking to collaborate on Node js related projects
 - 📫 You can reach me at rahulparakkal98@gmail.com
 
 <!---
