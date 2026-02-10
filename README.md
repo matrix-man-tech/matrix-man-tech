@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul 
-- 👀 I’m interested in Node,Express,Mongodb and Devops
+- 👀 I’m interested in Golang,Node.js,Fast API and Devops
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Node js related projects
 - 📫 You can reach me at rahulparakkal98@gmail.com
